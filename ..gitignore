@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+.venv1/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Videos (skip large files)
+*.mp4
+*.avi
